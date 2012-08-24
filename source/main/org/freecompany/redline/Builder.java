@@ -112,7 +112,7 @@ public class Builder {
 	 * @param name the name of the dependency.
 	 * @param version the version identifier.
 	 */
-	protected void addDependency( final CharSequence name, final CharSequence version, final int flag) {
+	public void addDependency( final CharSequence name, final CharSequence version, final int flag) {
 		dependencies.put( name.toString(), version);
 		flags.put( name.toString(), flag);
 	}

@@ -22,15 +22,15 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git://github.com/craigwblake/redline.git</connection>
-		<developerConnection>scm:git:git@github.com:craigwblake/redline.git</developerConnection>
-		<url>https://github.com/craigwblake/redline</url>
+		<connection>scm:git:git://github.com/fs-eng/redline.git</connection>
+		<developerConnection>scm:git:git@github.com:fs-eng/redline.git</developerConnection>
+		<url>https://github.com/fs-eng/redline</url>
 	</scm>
 	<developers>
 		<developer>
-			<id>craigwblake</id>
-			<name>Craig Blake</name>
-			<email>craigwblake@gmail.com</email>
+			<id>mlindsey58</id>
+			<name>Mark Lindsey</name>
+			<email>mark.lindsey@familysearch.org</email>
 		</developer>
 	</developers>
 
