@@ -7,9 +7,9 @@
 		<version>7</version>
 	</parent>
 
-	<groupId>org.redline-rpm</groupId>
-	<artifactId>redline</artifactId>
-	<version>1.1.9</version>
+	<groupId>org.familysearch.cm</groupId>
+	<artifactId>fs-redline</artifactId>
+	<version>1.1.9-SNAPSHOT</version>
 	<packaging>jar</packaging>
 	<name>Redline</name> 
 	<description>Redline is a pure Java library for manipulating RPM Package Manager packages.</description>
@@ -22,7 +22,7 @@
 		</license>
 	</licenses>
 	<scm>
-		<connection>scm:git:git://github.com/fs-eng/redline.git</connection>
+		<connection>scm:git:git@github.com:fs-eng/redline.git</connection>
 		<developerConnection>scm:git:git@github.com:fs-eng/redline.git</developerConnection>
 		<url>https://github.com/fs-eng/redline</url>
 	</scm>
